@@ -1,0 +1,12 @@
+G:\CSharp Project\crystelReport\CrystelReport\bin\Debug\CrystelReport.exe.config
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.csprojResolveAssemblyReference.cache
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.Form1.resources
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.Properties.Resources.resources
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.csproj.GenerateResource.Cache
+G:\CSharp Project\crystelReport\CrystelReport\bin\Debug\CrystelReport.exe
+G:\CSharp Project\crystelReport\CrystelReport\bin\Debug\CrystelReport.pdb
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.exe
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.pdb
+G:\CSharp Project\crystelReport\CrystelReport\bin\Debug\CrystalReport1.rpt
+G:\CSharp Project\crystelReport\CrystelReport\bin\Debug\CrystalReport1.cs
+G:\CSharp Project\crystelReport\CrystelReport\obj\x86\Debug\CrystelReport.Form2.resources
